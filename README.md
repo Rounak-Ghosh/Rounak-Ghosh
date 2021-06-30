@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, It's me Rounak
 
-<!--
-**Rounak-Ghosh/Rounak-Ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/rounak-ghosh)
+
+![Student  Bachelors of Technology](https://user-images.githubusercontent.com/62801352/123928593-ad983300-d9ab-11eb-8e4a-cb7dae27e5da.png)
+
+[![Website](https://img.shields.io/website?down_color=Red&down_message=Offline&label=rounak-ghosh.github.io&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Frounak-ghosh.github.io%2F)](https://rounak-ghosh.github.io/)
+[![LinkedIn Follow](https://img.shields.io/website?down_color=Red&down_message=Active&label=rounak%20ghosh&logo=linkedin&style=for-the-badge&up_color=Blue&up_message=Active&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frounak-ghosh-b88649191)](https://www.linkedin.com/in/rounak-ghosh-b88649191)
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning everything 🤣
+- 👫 I’m looking to collaborate with developers 💻
+- 🥅 2021 Goals : Build more projects 👨‍🎓
+- ⚡ Fun fact: I am a psychopath 😎
+- 😄 Pronouns: he/him
+- 📫 How to reach me: rounakghosh100@gmail.com

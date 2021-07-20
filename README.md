@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a psychopath 😎
 - 😄 Pronouns: he/him
 - 📫 How to reach me: rounakghosh100@gmail.com
+- 💻 Personal website: https://rounak-ghosh.github.io/

@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, It's me Rounak
 
-<p align="center"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<!--<p align="center"><img width="80%" src="./assets/gh-readme-header.png" /></p>-->
 
 <br />
 

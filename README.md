@@ -1,5 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, It's me Rounak
 
+<p align="center"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 ![Profile views](https://gpvc.arturio.dev/rounak-ghosh)
 
 ![Student  Bachelors of Technology](https://user-images.githubusercontent.com/62801352/123928593-ad983300-d9ab-11eb-8e4a-cb7dae27e5da.png)

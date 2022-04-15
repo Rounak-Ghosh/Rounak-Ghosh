@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👫 I’m looking to collaborate with developers 💻
 - 🥅 2021 Goals : Build more projects 👨‍🎓
-- ⚡ Fun fact: I am a psychopath 😎
-- 😄 Pronouns: he/him
-- 📫 How to reach me: rounakghosh100@gmail.com
+- ⚡ Fun fact: I am depressed lol 😂
+- 📫 How to reach me: rounak.ghosh@gcettb.ac.in
 - 💻 Personal website: https://rounak-ghosh.github.io/

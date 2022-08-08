@@ -4,7 +4,7 @@
 
 <br />
 
-![Profile views](https://gpvc.arturio.dev/rounak-ghosh)
+<!-- ![Profile views](https://gpvc.arturio.dev/rounak-ghosh) -->
 
 ![Orange Minimalist (LinkedIn Banner)](https://user-images.githubusercontent.com/62801352/164508990-c018c80c-0b33-49e7-81ff-383a7d648ef5.png)
 

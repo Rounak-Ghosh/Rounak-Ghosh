@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, It's me Rounak
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, This is Rounak Ghosh 
 
 <!--<p align="center"><img width="80%" src="./assets/gh-readme-header.png" /></p>-->
 
@@ -14,8 +14,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React JS🤣
+- 🌱 I’m currently learning React JS
 - 👫 I’m looking to collaborate with developers 💻
 - 🥅 2022 Goals : Build more projects 👨‍🎓
-- 📫 How to reach me: rounakghosh100@gmail.com
+- 📫 How to reach me: rounakghosh189@gmail.com
 - 💻 Personal website: https://rounak-ghosh.github.io/

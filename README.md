@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React JS
 - 👫 I’m looking to collaborate with developers 💻
-- 🥅 2022 Goals : Build more projects 👨‍🎓
+- 🥅 2023 Goals : Build more projects 👨‍🎓
 - 📫 How to reach me: rounakghosh189@gmail.com
 - 💻 Personal website: https://rounak-ghosh.github.io/

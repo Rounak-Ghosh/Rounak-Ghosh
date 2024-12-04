@@ -14,8 +14,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently upskilling as MERN Developer
-- 👫 I’m looking to collaborate with developers 💻
-- 🥅 2023 Goals : Build more projects 👨‍🎓
+- 🌱 SAP ABAPer by profession, problem solver by passion
+- 👫 Looking to collaborate with developers irrespective of languages 💻
+- 🥅 2025 Goals : Build more projects 👨‍🎓
 - 📫 How to reach me: rounakghosh189@gmail.com
 - 💻 Personal website: https://rounak-ghosh.github.io/
